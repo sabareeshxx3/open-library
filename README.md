@@ -15,7 +15,6 @@ The Open Library Project is a collaborative effort to create a free, open, and c
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP, MySQL
-- **External APIs**: [Google Books API](https://developers.google.com/books), [Open Library API](https://openlibrary.org/dev/docs/api), etc.
 
 ## Setup Instructions
 
